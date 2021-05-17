@@ -1,5 +1,6 @@
-# Path of Building Community Fork
-## Formerly known as LocalIdentity Fork
+# MacOS Path Of Building Native Binary
+## Path of Building Community Fork
+### Formerly known as LocalIdentity Fork
 
 This is a fork of Openarl's Path Of Building that includes many extra features not in the base version of PoB
 * Adds support for new and updated uniques from league 3.8 onwards
