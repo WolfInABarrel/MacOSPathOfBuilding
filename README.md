@@ -1,4 +1,10 @@
 # MacOS Path Of Building Native Binary
+
+This is a cloned repo which has had a few cuts (unnessescary files for MacOS) and then packaged using Xcode to be a native binary.
+Except cuts, this should not be any different from a base image of PoB. The only issue I've found is that these base images has the dev tag.
+This is something I'll eventually fix if this is accepted by the PoB team. If not, well, you're nerdy enough to find me, you're nerdy enough
+to survive a dev tag no?
+
 ## Path of Building Community Fork
 ### Formerly known as LocalIdentity Fork
 
